@@ -28,7 +28,7 @@ Welcome to our e-commerce website! We are delighted to offer you a seamless onli
 10. Customer Support: The website offers customer support through various channels such as phone, email, or live chat to help customers with their queries and concerns.
 
 # Developers
-@JASHWANTH P
+@JASHWANTH P ( https://github.com/jash-01 )
 @SHIVAKUMAR S 
 @MANIGANDAN Y 
 @THANUSH S 
